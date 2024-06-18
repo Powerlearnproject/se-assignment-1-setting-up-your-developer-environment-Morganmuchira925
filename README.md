@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/vbnbTt5m)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15296066&assignment_repo_type=AssignmentRepo)
 # Dev_Setup
 Setup Development Environment
 
@@ -50,3 +52,25 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+Selecting my preferred OS(WINDOWS 11)
+Step 1: Check Windows 11 Compatibility.
+Step 2: Check Windows 11 System Requirements.
+Step 3: Backup your data.
+Step 4: Start the Windows 11 Installation.
+Step 5: Try and test Windows 11.
+Step 6: Revert to previous windows if not satisfied.
+Windows 11 compatibility check.
+Enable TPM 2.0 in the BIOS.
+
+Installing IDE(VISUAL STUDIO) where my coding environment is set.
+
+Setting up version Control(GIT)Install Git: Running it as Administrator and using Git Bash
+
+Installing necessary Programming Languages and Runtimes: This is done in Visual Studio Code by Installing Frameworks for programming languages that I will use to code the actual code.
+
+Install package managers: By insralling pip for Python, one ia able to use it when running codes in the terminal of VS Code.
+
+Configuring a Database: This is done by installing MySQL whereby it will be used to store Data in a Database that can then be used when one wants to access Data fron the server that will be used for the backend development. 
+
+Explore Extensions and Plugins:The ESLint extension would provide syntax highlighting and linting feedback, indicating any errors or warnings in the code.
